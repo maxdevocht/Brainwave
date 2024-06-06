@@ -53,11 +53,6 @@ export const navigation = [
     url: "#how-to-use",
   },
   {
-    id: "3",
-    title: "Roadmap",
-    url: "#roadmap",
-  },
-  {
     id: "4",
     title: "New account",
     url: "#signup",
